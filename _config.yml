@@ -1,0 +1,11 @@
+title: "AbjadAuthorID"
+description: "Shared Task on Abjad Authorship Identification (Multiclass Classification)"
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: "#"
+  repository_name: "Registration Opening Soon"
+markdown:
+  kramdown:
+    auto_ids: false  # This disables automatic heading IDs
+
