@@ -6,7 +6,7 @@
 This shared task, **AbjadAuthorID**, focuses on a multiclass classification challenge aimed at identifying the author of a given text excerpt from **literature** across diverse periods.
 
 The task specifically focuses on languages that utilize the **Arabic script**, including:
-- **Arabic**
+- **MSA**
 - **Urdu**
 - **Kurdish**
 
