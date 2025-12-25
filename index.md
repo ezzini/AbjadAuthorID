@@ -6,9 +6,8 @@
 This shared task, **AbjadAuthorID**, focuses on a multiclass classification challenge aimed at identifying the author of a given text excerpt from **literature** across diverse periods.
 
 The task specifically focuses on languages that utilize the **Arabic script**, including:
-- **Modern Standard Arabic (MSA)**
+- **Arabic**
 - **Urdu**
-- **Persian**
 - **Kurdish**
 
 Authorship identification is a fundamental problem in Natural Language Processing (NLP) and computational linguistics, with applications ranging from digital humanities and literary analysis to forensic linguistics. This task seeks to advance the state-of-the-art in authorship attribution for low-resource and morphologically rich languages that share the Abjad writing system.
