@@ -53,7 +53,7 @@ Participants are invited to submit systems for the following task:
 - **Mo El-Haj**, VinUniversity / Lancaster University
 
 ## 7. Participation Guidelines
-- Access the following links on Codabench platform to access the datasets and evalaute the perfomance of your system/model:
+- Access the following links on Codabench platform to access the datasets and train/evalaute the perfomance of your system/model:
   - [MSA](https://www.codabench.org/competitions/12332)
   - [Urdu](https://www.codabench.org/competitions/12333)
   - [Kurdish](https://www.codabench.org/competitions/12334)
