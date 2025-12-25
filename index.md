@@ -40,8 +40,8 @@ Participants are invited to submit systems for the following task:
 - **january 10, 2026**: Release of test data
 - **january 15, 2026**: End of evaluation cycle (test submissions close)
 - **January 17, 2026**: Final results released
-- **August 22, 2025**: Shared task papers due date
-- **January 20, 2026**: Notification of acceptance
+- **January 21, 2025**: Shared task papers due date
+- **January 27, 2026**: Notification of acceptance
 - **February 3, 2026**: Camera-ready versions due
 - **March 24–29, 2026**:  Workshop Dates [TBD]
 
