@@ -36,14 +36,14 @@ Participants are invited to submit systems for the following task:
 - **Evaluation Metric**: Macro-F1 Score (primary), Accuracy (secondary).
 
 ## 5. Tentative Timeline
-- **June 10, 2025**: Release of training data
-- **July 20, 2025**: Release of test data
-- **July 25, 2025**: End of evaluation cycle (test submissions close)
-- **July 30, 2025**: Final results released
+- **December 25, 2025**: Release of training data
+- **january 10, 2026**: Release of test data
+- **january 15, 2026**: End of evaluation cycle (test submissions close)
+- **January 17, 2026**: Final results released
 - **August 22, 2025**: Shared task papers due date
-- **August 25, 2025**: Notification of acceptance
-- **September 5, 2025**: Camera-ready versions due
-- **November 5–9, 2025**: Main Conference
+- **January 20, 2026**: Notification of acceptance
+- **February 3, 2026**: Camera-ready versions due
+- **NMarch 24–29, 2026**:  Workshop Dates [TBD]
 
 ## 6. Organizers
 - **Shadi Abudalfa**, King Fahd University of Petroleum & Minerals
