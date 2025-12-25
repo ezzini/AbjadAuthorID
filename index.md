@@ -20,7 +20,7 @@ The motivation for this shared task stems from the need to develop robust author
 
 ## 3. Data
 The dataset for this shared task consists of text excerpts from a diverse set of authors in the target languages.
-- **Languages**: MSA, Urdu, Persian, Kurdish.
+- **Languages**: MSA, Urdu, and Kurdish.
 - **Domain**: **Literature** (Novels, Short Stories, Poems, etc.).
 - **Periods**: Texts spanning different historical periods.
 
