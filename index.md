@@ -43,7 +43,7 @@ Participants are invited to submit systems for the following task:
 - **August 22, 2025**: Shared task papers due date
 - **January 20, 2026**: Notification of acceptance
 - **February 3, 2026**: Camera-ready versions due
-- **NMarch 24–29, 2026**:  Workshop Dates [TBD]
+- **March 24–29, 2026**:  Workshop Dates [TBD]
 
 ## 6. Organizers
 - **Shadi Abudalfa**, King Fahd University of Petroleum & Minerals
