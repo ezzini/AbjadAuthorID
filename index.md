@@ -54,9 +54,9 @@ Participants are invited to submit systems for the following task:
 
 ## 7. Participation Guidelines
 - Access the following links on Codabench platform to access the datasets and evalaute the perfomance of your system/model:
--- [MSA](https://www.codabench.org/competitions/12332)
--- [Urdu](https://www.codabench.org/competitions/12333)
--- [Kurdish](https://www.codabench.org/competitions/12334)
+- [MSA](https://www.codabench.org/competitions/12332)
+- [Urdu](https://www.codabench.org/competitions/12333)
+- [Kurdish](https://www.codabench.org/competitions/12334)
 - For participation guidelines, please refer to [Participation Guidelines](guidelines.md).
 - Comprehensive instructions for preparing and submitting your paper(s) are available at [Paper Submission Guidelines](PAPER.md).
 
