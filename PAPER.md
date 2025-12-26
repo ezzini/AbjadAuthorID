@@ -53,9 +53,7 @@ Low-level details for replication that aren't essential for understanding main c
 
 ### Formatting Requirements ⚠️
 #### Templates and Style
-- Must use: Official EMNLP 2025 (ACL) style templates (LaTeX or Word)
-- Download from: [https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)
-- Follow: General "*ACL" conference formatting guidelines
+- Must use: Official style templates (LaTeX or Word)
 - Do NOT: Modify style files or use templates from other conferences to avoid the paper rejection
 
 #### Consequences
